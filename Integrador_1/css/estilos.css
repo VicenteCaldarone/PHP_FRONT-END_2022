@@ -32,3 +32,16 @@
     color: lightgray;
     text-decoration: none;
 }
+
+.opacity-conf{
+    filter:brightness(0.5);
+}
+
+.carousel-caption{
+    transform: translateY(-50%);
+    bottom: initial;
+    top: 60%;
+}
+.btn-success{
+    background-color: rgb(37, 168, 66);  
+}
